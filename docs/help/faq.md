@@ -61,7 +61,11 @@ A limited version of Nanome is free for all users which can be downloaded at any
 Yes, for Nanome site licenses please contact sales@nanome.ai
 
 ## What services do you offer once I purchase a license? [Enterprise Only]
-We provide full support for private data security, database integration, computational plugin integration, plugin development and customization.
+We provide full support for private data security, database integration, computational plugin integration, plugin development and customization. Please contact sales for additional details
+
+## Does Nanome work offline?
+No, Nanome requires an initial internet connection to create a room. However, you can drop the internet after the room is created to maintain an offline room. Your room will not be visible to others and it is a singe player room. This is helpful when you want to look at proprietary data. Note that this is separate from our enterprise "offline license file" which allows you to only bypass using Nanome's login servers for your devices at work - internet connection to start a room is still required.
+
 
 ## I have a coupon code. How do I redeem it?
 First, create an account or login at [https://nanome.ai/pricing/](https://nanome.ai/pricing/). Once you are logged in, you will notice a sidebar on the right with various options. Click plans and products and you will see our different premium tiers along with annual and monthly plans on top. Select the plan that your coupon covers. On the next menu, you'll see a form for credit card information as well as a blank to type in your coupon. You will have to put in your credit card information, but the coupon should neglect any actual fee. If your card was charged after the transaction, please contact us directly at support@nanome.ai and we will issue a refund immediately.

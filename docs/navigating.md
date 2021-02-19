@@ -54,7 +54,7 @@ Room Types:
 
 - Public Rooms: Anyone can join in the room. available to all Nanome licenses
 - Private Rooms: A password is set for the room. Available to Academic and Enterprise
-- Single User: Offline mode which no one else can join. Available to Academic and Enterprise
+- Single User: "Offline" mode which no one else can join. Available to Academic and Enterprise
 
 #### Settings
 
