@@ -10,28 +10,33 @@ Supported headsets
 
 <vimg src="gettingStarted-page/HeadsetsCombined1.png" />
 
-Note\*
-We also support the Oculus Rift (CV1), HTC Vive, and the Oculus Quest all-in-one VR headset (in BETA).
+#### The minimum required specs for desktop:
 
-#### The recommended specs for desktop computer:
+- Intel Core i5-4590 or newer CPU
+- NVIDIA GTX 780 or newer GPU
+- 4GB System RAM and above
+- 256 GB SSD
+- Windows 10 Operating System
 
-- Intel i7 or Xeon
-- RTX 1660ti and above GPU, RTX 2060, 2070 or 2080, Quadro RTX 3000, 4000, or 5000, Titan Xp 8GB ram and above
-- 8GB RAM and above
+#### The recommended specs for desktop:
+
+- Intel Core i7-4790 or newer CPU
+- NVIDIA GTX 1060 or newer GPU
+- 8GB System RAM and above
 - 256 GB SSD
 - Windows 10 Operating System
 
 #### The recommended specs for laptop:
 
-- Intel i7
-- RTX 1660ti and above GPU
-- 8GB RAM and above
+- Intel Core i7 equipped laptop
+- GTX 1060 or newer GPU
+- 8GB System RAM and above
 - 256 GB SSD
 - Windows 10 Operating System
 
 #### Examples of light weight VR ready laptops:
 
-- MSI GS65 Stealth-296 with GTX 1660Ti
+- MSI GS65 Stealth-296 with GTX 1660 Ti
 - MSI GS65 Stealth-007 with RTX 2060
 - MSI GS65 Stealth-004 with RTX 2070
 - MSI GS65 Stealth-005 with RTX 2080
